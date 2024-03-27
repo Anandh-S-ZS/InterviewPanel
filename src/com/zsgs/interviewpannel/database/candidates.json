@@ -1,0 +1,28 @@
+[
+	{
+		"candidateId": 101,
+		"candidateName": "Anandh",
+		"candidateEmailId": "anandh@123",
+		"gainedPercentage": 8.6,
+		"interviewPannelId": 1001,
+		"degree": "cse",
+		"arrivalTime": "7:45",
+		"interviewInTime": "8:34",
+		"interviewOutTime": "8:54",
+		"candidateRating": 4.3,
+		"candidateReview": "good"
+	},
+	{
+		"candidateId": 102,
+		"candidateName": "Sadhana",
+		"candidateEmailId": "sadhana@123",
+		"gainedPercentage": 8.7,
+		"interviewPannelId": 1001,
+		"degree": "cse",
+		"arrivalTime": "7:23",
+		"interviewInTime": "9:10",
+		"interviewOutTime": "9:40",
+		"candidateRating": 4.9,
+		"candidateReview": "best"
+	}
+]
